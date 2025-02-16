@@ -25,6 +25,7 @@ dependencies:
   url_launcher: ^6.3.1
 
   flutter_native_splash: ^2.4.4
+  smooth_page_indicator: ^1.2.0+3
 
 dev_dependencies:
   flutter_test:
@@ -38,6 +39,7 @@ flutter:
   assets:
     - assets/icons/
     - assets/images/
+    - assets/images/onboarding/
     - assets/logos/
 
   # Local Fonts
